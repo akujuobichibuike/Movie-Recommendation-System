@@ -1,6 +1,6 @@
 # BUILDING A MOVIE RECOMMENDATION SYSTEM
 
-This is a self project done by me Chibuike Victor Akujuobi and reviewed by my friend and mentor Teyira Peter Geo-Needam. This project was done to enable us strengthen our skills in Python and Machine learning.
+This is a self project done by me Chibuike Victor Akujuobi and reviewed by my friends Teyira Peter Geo-Needam & Emmanuel Ugochukwu. This project was done to enable us strengthen our skills in Python and Machine learning.
 
 In this project, I will walk you through the basics of recommendation systems then build a movie recommendation system that calculates the pairwise cosine similarity scores for all movies based on their Cast, Tagline, Keywords, Directors, and Genres, then recommend movies with the highest similarity scores to the user’s input.
 
